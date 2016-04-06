@@ -2,7 +2,9 @@ require_relative 'todolist.rb'
 
 # Creates a new todo list
 
+
 # Add four new items
+
 
 # Print the list
 
