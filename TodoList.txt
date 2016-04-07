@@ -1,7 +1,7 @@
 
-*********************************
-what to do the day after tomorrow
-*********************************
+********
+New list
+********
 
-1 - do homework     Completed: false
-2 - do project      Completed: false
+1 - new item         Priority: 0     Completed: false
+2 - new item234      Priority: 5     Completed: false
