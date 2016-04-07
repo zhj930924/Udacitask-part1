@@ -1,0 +1,7 @@
+
+*********************************
+what to do the day after tomorrow
+*********************************
+
+1 - do homework     Completed: false
+2 - do project      Completed: false
