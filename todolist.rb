@@ -10,7 +10,7 @@ class TodoList
   def check_pet(pet_name)
     @pet_name = pet_name
     count = 0
-    @items.each { |item| count += 1 if item.upcase.include?(@pet_name.upcase) }
+    @items.each { |item| count += 1 if item.description.upcase.include?(@pet_name.upcase) }
     if count > 1
       puts "You have #{count} item(s) related to your pet."
     elsif count == 1

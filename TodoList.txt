@@ -1,7 +1,6 @@
 
-********
-New list
-********
+*************
+Updated title
+*************
 
-1 - new item         Priority: 0     Completed: false
-2 - new item234      Priority: 5     Completed: false
+1 - Love your pet!        Priority: 5     Completed: false

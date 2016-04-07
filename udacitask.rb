@@ -37,7 +37,30 @@ todo.rename("Updated title")
 todo.print_list
 
 # Check if I care about my pet
-check_pet("Roxy")
+todo.check_pet("Roxy")
 
 # Print the list
 todo.print_list
+
+# Save the list
+todo.save_list
+
+# What will happen if I have one pet related item?
+
+# Create a new list
+newlist = TodoList.new("Not so important to-do list")
+
+# Add one pet related item and some other to the list
+newlist.add_item("Hiking in Yosemite National Park")
+newlist.add_item("Shop groceries at Costco")
+newlist.add_item("Finish Udacity project")
+newlist.add_item("Bring Roxy to Death Valley National Park")
+
+# Print the list
+newlist.print_list
+
+# Check pet again
+newlist.check_pet("Roxy")
+
+# See what happened
+newlist.print_list
